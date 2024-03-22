@@ -49,4 +49,3 @@ void stop() {
   analogWrite(Pin::motor_left_pwm, 0);
   analogWrite(Pin::motor_right_pwm, 0);
 }
-
